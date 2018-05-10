@@ -1,11 +1,36 @@
 body{
-	background-color: #dfe4ea;
+	background: linear-gradient(#70e1f5, #ffd194);
+	text-align: center;
+	font-family: sans-serif;
 }
 
 .main{
-	width: 1000px;
-	height: 100vh;
+	width: 800px;
+	height: 1350px;
 	margin: 0 auto;
+}
+
+.variable-width {
+	padding: 1em;
+}
+
+.variable-width img {
+	height: 275px;
+	padding: 0.25em;
+}
+
+h1 {
+	font-family: 'Luckiest Guy', cursive;
+	font-size: 63px;
+	color: #e35d5b;
+}
+
+h2 {
+	margin-top: 49px;
+	margin-bottom: 10px;
+	font-family: 'Vollkorn', serif;
+	font-size: 27px;
+	color: #fe8c00;
 }
 
 /* .variable-width{
