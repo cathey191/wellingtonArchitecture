@@ -8,6 +8,6 @@ body{
 	margin: 0 auto;
 }
 
-/* .variable-width{
-	height: 50%;
-} */
+.variable-width img{
+	height: 500px;
+}
